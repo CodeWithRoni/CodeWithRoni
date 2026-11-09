@@ -202,6 +202,7 @@ These are projects from my actual GitHub repositories — focused on solving rea
   <a href="https://github.com/CodeWithRoni"><img alt="Follow on GitHub" src="https://img.shields.io/badge/GitHub-CodeWithRoni-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://codewithroni.github.io/"><img alt="Visit portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:ahroni.usa@gmail.com"><img alt="Send an email" src="https://img.shields.io/badge/Email-Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-amzad-hossain-roni-02b56037b"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <br /><br />
 
